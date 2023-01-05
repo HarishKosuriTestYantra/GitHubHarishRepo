@@ -1,4 +1,4 @@
-package test2;
+package test2Pavan;
 
 public class Class2 {
 
